@@ -323,7 +323,7 @@ img {
   width: calc((100% - 48px) / 3);
 }
 
-.p-li:not(:last-child) {
+.items-portfolio:not(:last-child) {
   margin-right: 24px;
 }
 
